@@ -15,4 +15,7 @@ How to run
 
 
 Environment
-- Windows 10, IntelliJ Community Edition v15.0.6, JRE 1.8.0_66
+- Windows 10
+- IntelliJ Community Edition v15.0.6
+- JRE 1.8.0_66
+ - Java 8 is required.
